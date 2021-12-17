@@ -161,7 +161,7 @@
       .col-lg-4.p-0.m-0.d-none.d-lg-block
         img.img-t.t3-m-top(data-aos="zoom-in")(src='@/assets/ilustraciones/img33.jpg', alt='')
 
-    p(data-aos="slide-down") Aunque hay más redes sociales, es importante resaltar a Youtube y Tiktok cuyos contenidos de video han permitido la difusión de información acerca de negocios y emprendimientos.
+    p(data-aos="slide-down").mt-5 Aunque hay más redes sociales, es importante resaltar a Youtube y Tiktok cuyos contenidos de video han permitido la difusión de información acerca de negocios y emprendimientos.
 
     p(data-aos="slide-down") Así, una de las necesidades de un emprendedor es poder identificar el tipo de público o la necesidad que tiene el usuario y para ello existe una herramienta muy interesante que puede ser de gran utilidad, como es Google Trends. Te invitamos a ver el video explicativo sobre la herramienta:
 
