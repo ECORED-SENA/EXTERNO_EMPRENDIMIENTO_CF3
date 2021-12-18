@@ -214,40 +214,21 @@
                     span.text-custom Ver video 
 
     p(data-aos="slide-down").mt-5 Finalmente queremos invitarte a ver un video sobre una de las herramientas más comunes que usan las personas para atender clientes, el WhatsApp.
-    .bg-img-4.mt-5(data-aos="slide-left")       
-      .row.justify-content-center.align-items-center(data-aos="slide-down")    
-        .col-lg-10
-          .tarjeta.color-secundario.bg-blue-1.px-5.mt-3
-            .row.justify-content-evenly.align-items-center
-              .col          
-                .row.justify-content-between.align-items-center.py-3
-                  .col.mb-3.mb-sm-0.text-white
-                    h5.mb-1 ¿Cómo puedes vender más en tu tienda con la ayuda de whatsapp?
-                    p.text-small.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
-                  .col-sm-auto
-                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=sgHg2ynk0pI" target="_blank")
-                      span.text-custom Ver video
-              .col-3.col-sm-2.col-lg-3
-                img(src="@/assets/ilustraciones/img28.svg")
+    .row.justify-content-center.align-items-center(data-aos="slide-down")    
+      .col-lg-10
+        .tarjeta.color-secundario.bg-blue-1.px-5.mt-3
+          .row.justify-content-evenly.align-items-center
+            .col          
+              .row.justify-content-between.align-items-center.py-3
+                .col.mb-3.mb-sm-0.text-white
+                  h5.mb-1 ¿Cómo puedes vender más en tu tienda con la ayuda de whatsapp?
+                  p.text-small.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=sgHg2ynk0pI" target="_blank")
+                    span.text-custom Ver video
+            .col-3.col-sm-2.col-lg-3
+              img(src="@/assets/ilustraciones/img28.svg")
                 
-      .row.justify-content-center.align-items-stretch(data-aos="slide-down")
-        .col-lg-4              
-          .row.justify-content-center.align-items-stretch.mt-5(data-aos="slide-down")    
-            .col-lg-11.t3-card.p-3
-              img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/7.svg', alt='')              
-              h5.mt-3.text-center Integración de la tecnología y los negocios                      
-        .col-lg-4              
-          .row.justify-content-center.align-items-stretch.mt-5(data-aos="slide-down")    
-            .col-lg-11.t3-card.p-3
-              img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/8.svg', alt='')              
-              h5.mt-3.text-center Planificación tecnologica
-
-        .col-lg-4              
-          .row.justify-content-center.align-items-stretch.mt-5(data-aos="slide-down")    
-            .col-lg-11.t3-card.p-3
-              img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/9.svg', alt='')              
-              h5.mt-3.text-center Idea de negocio
-
     separador(data-aos="slide-left")
     .bg-img-3
       #t_3_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -266,7 +247,7 @@
       .col-lg-11.sup
         .color-p-gray.p-4
           p.mb-0 Ahora apreciados emprendedores, es momento de pensar en los procesos que pueden ser potenciados por herramientas tecnológicas, las que están dispuestos a apropiar y a usar. 
-    .row.justify-content-center.align-items-center.mt-5(data-aos="slide-down")
+    .row.justify-content-center.align-items-center.mt-5(data-aos="slide-left")
       .col-lg-10
         LineaTiempoD.color-primario
           .row.justify-content-center.align-items-center(numero="1" titulo="Planificación tecnológica")
