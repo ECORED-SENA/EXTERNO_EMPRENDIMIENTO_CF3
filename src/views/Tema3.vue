@@ -25,7 +25,8 @@
               .tarjeta-flip__contenido.p-3
                 img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img22.svg', alt='')              
                 h5.mt-3.text-center Información y alfabetización informacional
-                p.mb-0.text-center Utilizar herramientas de búsqueda que favorezcan identificar y seleccionar información de interés.
+                p.mb-0.text-center Utiliza herramientas de búsqueda que favorezcan identificar y seleccionar información de interés.
+
 
         .col-lg-4.mb-4.mb-xl-0
           .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
@@ -36,7 +37,7 @@
               .tarjeta-flip__contenido.p-3
                 img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img23.svg', alt='')              
                 h5.mt-3.text-center Comunicación y colaboración
-                p.mb-0.text-center Compartir información a través de diferentes herramientas digitales, así mismo identificar formatos de comunicación y herramientas colaborativas que favorezcan el trabajo en equipo.
+                p.mb-0.text-center Comparte información a través de diferentes herramientas digitales, así mismo identifica formatos de comunicación y herramientas colaborativas que favorezcan el trabajo en equipo.
 
         .col-lg-4.mb-4.mb-sm-0
           .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
@@ -47,7 +48,7 @@
               .tarjeta-flip__contenido.p-3
                 img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img24.svg', alt='')              
                 h5.mt-3.text-center Creación de contenidos digitales
-                p.mb-0.text-center Creación de contenido digital en la que un emprendedor puede hacer uso de herramientas sencillas para crear un banner o imagen para ser publicada en su página o en redes sociales.
+                p.mb-0.text-center Crea contenido digital en el que un emprendedor joven puede hacer uso de herramientas sencillas para crear un banner o imagen para ser publicada en su página o en redes sociales.
 
       .row.justify-content-center.align-items-stretch.mt-4
         .col-lg-4.mb-4.mb-xl-0
@@ -60,7 +61,8 @@
               .tarjeta-flip__contenido.p-3
                 img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img25.svg', alt='')              
                 h5.mt-3.text-center Seguridad
-                p.mb-0.text-center Protección de información, datos personales, protección de la identidad digital, de los contenidos digitales. Comprender los riesgos y amenazas en red y conocer medidas de protección y seguridad.
+                p.mb-0.text-center Protege la información, datos personales e identidad digital, de los contenidos digitales. Comprende los riesgos y amenazas en red y conoce las medidas de protección y seguridad.
+
 
         .col-lg-4.mb-4.mb-xl-0
           .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
@@ -71,7 +73,7 @@
               .tarjeta-flip__contenido.p-3
                 img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img26.svg', alt='')              
                 h5.mt-3.text-center Resolución de problemas
-                p.mb-0.text-center Identificar necesidades sobre el uso de recursos digitales y tomar decisión sobre la herramienta digital más apropiada para el negocio. Usar las tecnologías de forma creativa.
+                p.mb-0.text-center Identifica necesidades sobre el uso de recursos digitales y toma decisiones sobre la herramienta digital más apropiada para el negocio. Usar las tecnologías de forma creativa.
                     
     separador(data-aos="slide-left")
 
@@ -82,7 +84,7 @@
         .col-lg-4(data-aos="slide-down")
           img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img29.png', alt='') 
         .col-lg-8
-          p(data-aos="slide-down") Alguna vez has hecho alguna compra por internet?, si nunca lo has hecho es importante que sepas que el mercado electrónico cada día toma más fuerza, porque además te permite hacer compras desde tu teléfono en la comodidad de tu hogar. Para profundizar un poco más sobre ello te invitamos a revisar el video que encuentras a continuación.
+          p(data-aos="slide-down") ¿Alguna vez has hecho alguna compra por internet?, si nunca lo has hecho es importante que sepas que el mercado electrónico cada día toma más fuerza, porque además te permite hacer compras desde tu teléfono en la comodidad de tu hogar. Para profundizar un poco más sobre ello te invitamos a revisar el video que encuentras a continuación.
           .row.justify-content-center.align-items-center
             .col-lg-11          
               .tarjeta.color-primario.bg-blue-1.p-4.mt-4(data-aos="slide-down")

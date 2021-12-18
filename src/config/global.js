@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Herramientas para el emprendedor 4.0',
+    componenteFormativo: 'Herramientas digitales para el joven emprendedor',
     descripcionCurso:
       'Apreciado aprendiz, esta unidad te permitirá entender la importancia de la tecnología en los emprendimientos, además de desarrollar algunas habilidades de uso y planeación de herramientas digitales.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),

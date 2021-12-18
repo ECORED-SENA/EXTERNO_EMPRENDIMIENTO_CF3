@@ -70,7 +70,7 @@
                     .col-4.p-0.m-0
                       img.img-t(data-aos="zoom-in")(src='@/assets/ilustraciones/1.svg', alt='')
                     .col-8.m-0.p-0
-                      h4.mb-0.text-white Robot
+                      h4.mb-0.text-white Robótica
                   .indicador--click(v-if="mostrarIndicador")
 
           .col-lg-4.mt-4(data-aos="slide-down") 
@@ -81,7 +81,7 @@
                     .col-4.p-0.m-0
                       img.img-t(data-aos="zoom-in")(src='@/assets/ilustraciones/2.svg', alt='')
                     .col-8.m-0.p-0
-                      h4.mb-0.text-white Sistemas               
+                      h4.mb-0.text-white Inteligencia artificial               
           .col-lg-4.mt-4(data-aos="slide-down") 
             .row
               .col-10
