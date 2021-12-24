@@ -111,7 +111,7 @@
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=n2doTJJGGo8" target="_blank")
                         span.text-custom Ver video
                 .col-3.col-sm-2.col-lg-3
-                  img(src="@/assets/ilustraciones/img28.svg")  
+                  img(src="@/assets/ilustraciones/img28.png")  
 
       .row.justify-content-center.align-items-center.mt-5.px-4
         .col-lg-8
@@ -180,7 +180,7 @@
                   a.boton.color-acento-botones(href="https://youtu.be/dTM3-gNS6VA" target="_blank")
                     span.text-custom Ver video
             .col-3.col-sm-2.col-lg-3
-              img(src="@/assets/ilustraciones/img28.svg") 
+              img(src="@/assets/ilustraciones/img28.png") 
               
     .row.justify-content-start.align-items-center.mt-5(data-aos="slide-down")    
       .col-lg-4
@@ -227,7 +227,7 @@
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=sgHg2ynk0pI" target="_blank")
                     span.text-custom Ver video
             .col-3.col-sm-2.col-lg-3
-              img(src="@/assets/ilustraciones/img28.svg")
+              img(src="@/assets/ilustraciones/img28.png")
                 
     separador(data-aos="slide-left")
     .bg-img-3
@@ -235,7 +235,7 @@
         h2 3.4 Modernización de los negocios con tecnología
       .row.justify-content-center.align-items-center 
         .col-lg-4(data-aos="slide-down")
-          img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img36.svg', alt='') 
+          img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img36.png', alt='') 
         .col-lg-8
           p(data-aos="slide-down") Cuando hablamos de modernización de los negocios con tecnología debemos pensar en los procesos que se pueden potenciar con el uso de herramientas tecnológicas que  estés dispuesto a apropiar y a usar. Así que si decides emplear una página web o una red social, debes proyectar la actualización de información en la primera, lo que desearía encontrar un cliente potencial; mientras que en la segunda debes tener en cuenta la interacción con los usuarios, la respuesta oportuna y respetuosa a los mismos, así como en la dinamización de la red. El punto de todo esto es entender que las herramientas tecnológicas se han convertido en un aliado de los negocios y que cada vez las nuevas tecnologías se irán adaptando como algo necesario.
           .cajon.color-acento-botones.p-4.mt-4(data-aos="zoom-in")
@@ -405,7 +405,7 @@
                               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=p7ZwZhSjqTM" target="_blank")
                                 span.text-custom Ver video
                         .col-3.col-sm-2.col-lg-3
-                          img(src="@/assets/ilustraciones/img28.svg")
+                          img(src="@/assets/ilustraciones/img28.png")
 
           .row.justify-content-center.align-items-center(numero="2" titulo="Idea de negocio")
             .row.justify-content-start.align-items-center

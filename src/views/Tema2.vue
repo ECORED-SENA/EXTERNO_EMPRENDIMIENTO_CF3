@@ -44,7 +44,7 @@
                     a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ttxpBkyydxQ" target="_blank")
                       span.text-custom Ver video
               .col-3.col-sm-2.col-lg-3
-                img(src="@/assets/ilustraciones/img28.svg")                                    
+                img(src="@/assets/ilustraciones/img28.png")                                    
 
     separador(data-aos="slide-left")
 
