@@ -294,8 +294,8 @@
 
                     tbody
                       tr
-                        td.c-gray Facebook #[em Bussiness]
-                        td.c-gray Parte de Facebook cuando se tiene una fanpage. Permite administrar respuestas automáticas y programar publicaciones de facebook e Instagram.
+                        td.c-gray Facebook #[em Business]
+                        td.c-gray Parte de Facebook cuando se tiene una fanpage. Permite administrar respuestas automáticas y programar publicaciones de Facebook e Instagram.
                         td.c-gray Responder al cliente de forma automática y publicar de forma programada.
                         td.c-gray Constante
                         td.c-gray PC
@@ -316,7 +316,7 @@
 
                         
                       tr
-                        td WhatsApp #[em Bussiness]
+                        td WhatsApp #[em Business]
                         td Versión de WhatsApp para negocios.
                         td Permite crear catálogos en la cuenta de WhatsApp, mensajes automáticos, etiquetar contactos.
                         td Constante
