@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.m-t3-top(data-aos="slide-down")
       .col-lg-11.sup
         .color-p-gray.p-4
-          p.mb-0 Como lo vimos en la unidad anterior, el emprendimiento y las herramientas digitales son aliados importantes en esta era digital, por ese motivo es importante que todo emprendedor conozca esas herramientas y se las pueda apropiar para fortalecer su idea de negocio. Las herramientas pueden ir desde el uso de redes sociales, la creación de contenido digital básico, análisis de datos, entre otros.          
+          p.mb-0 Como lo vimos en el componente formativo anterior, el emprendimiento y las herramientas digitales son aliados importantes en esta era digital, por ese motivo es importante que todo emprendedor conozca esas herramientas y se las pueda apropiar para fortalecer su idea de negocio. Las herramientas pueden ir desde el uso de redes sociales, la creación de contenido digital básico, análisis de datos, entre otros.          
     
     p(data-aos="slide-down").mt-5.text-center Las herramientas digitales van asociadas con las habilidades digitales que según el marco común de competencia digital están clasificadas en 5 competencias: 
 
@@ -115,7 +115,7 @@
 
       .row.justify-content-center.align-items-center.mt-5.px-4
         .col-lg-8
-          p(data-aos="slide-down") El Gobierno Nacional ha generado ayudas para la población como el ingreso solidario y uno de los requerimientos fue el tener una bancarización digital para poder enviar los pagos, para esta y otras necesidades existen aplicaciones gratuitas que permiten recibir, enviar, pagar y realizar varios procesos bancarios de manera gratuita para el usuario como lo son Nequi, Daviplata entre otros. Para tener mayor claridad sobre ello, te recomendamos ver un breve tutorial sobre como descargar y tener una cuenta de Nequi.
+          p(data-aos="slide-down") El Gobierno Nacional ha generado ayudas para la población como el ingreso solidario y uno de los requerimientos fue el tener una bancarización digital para poder enviar los pagos, para esta y otras necesidades existen aplicaciones gratuitas que permiten recibir, enviar, pagar y realizar varios procesos bancarios de manera gratuita para el usuario como lo son Nequi, Daviplata entre otros. Para tener mayor claridad sobre ello, te recomendamos ver un breve tutorial sobre cómo descargar y tener una cuenta de Nequi.
           .row.justify-content-center.align-items-center
             .col-lg-11         
               .tarjeta.color-primario.bg-blue-1.p-4.my-4(data-aos="slide-down")
@@ -133,14 +133,14 @@
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 3.2 Monedas electrónicas
-    p(data-aos="slide-down").ps-5 Es muy probable que alguna vez hayas escuchado hablar sobre las criptomonedas como Bitcoin o Ethereum, sin embargo, es importante precisar algunos conceptos para poder entender esta tendencia.
+    p(data-aos="slide-down").ps-5 Es muy probable que alguna vez hayas escuchado hablar sobre las criptomonedas como #[em Bitcoin] o #[em Ethereum], sin embargo, es importante precisar algunos conceptos para poder entender esta tendencia.
     .row.justify-content-center.align-items-start 
       .col-lg-4(data-aos="slide-down")
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img32.png', alt='') 
       .col-lg-8
         p(data-aos="slide-down") Las criptomonedas son monedas digitales descentralizadas que no tienen a los bancos como intermediarios y que utilizan una encriptación o codificación para su creación, de allí el nombre de criptomonedas, que además son almacenadas en una billetera virtual.
 
-        p(data-aos="slide-down") Como se mencionó antes, están asociadas a la tecnología Blockchain, con esta tecnología hay puntos que pueden ser computadores o dispositivos embebidos que sirven como parte de una red que se encarga de minar o procesar una transacción de criptomonedas, por lo cual recibe una comisión. Cada transacción tiene un código y la transacción queda registrada en muchos bloques, para tener seguridad en la transacción. (Ordinas, 2017)
+        p(data-aos="slide-down") Como se mencionó antes, están asociadas a la tecnología #[em Blockchain], con esta tecnología hay puntos que pueden ser computadores o dispositivos embebidos que sirven como parte de una red que se encarga de minar o procesar una transacción de criptomonedas, por lo cual recibe una comisión. Cada transacción tiene un código y la transacción queda registrada en muchos bloques, para tener seguridad en la transacción. (Ordinas, 2017)
 
         .cajon.color-acento-botones.p-4.mt-4(data-aos="zoom-in")
           p(data-aos="slide-down").mb-0 Las criptomonedas pueden llegar a ser volátiles, pero hay algunos países donde se han aceptado y han mostrado aumentos y disminución, siendo un tema de debate a nivel mundial, pero de mucha influencia. 
@@ -163,7 +163,7 @@
       .col-lg-4.p-0.m-0.d-none.d-lg-block
         img.img-t.t3-m-top(data-aos="zoom-in")(src='@/assets/ilustraciones/img33.jpg', alt='')
 
-    p(data-aos="slide-down").mt-5 Aunque hay más redes sociales, es importante resaltar a Youtube y Tiktok cuyos contenidos de video han permitido la difusión de información acerca de negocios y emprendimientos.
+    p(data-aos="slide-down").mt-5 Aunque hay más redes sociales, es importante resaltar a YouTube y Tiktok cuyos contenidos de video han permitido la difusión de información acerca de negocios y emprendimientos.
 
     p(data-aos="slide-down") Así, una de las necesidades de un emprendedor es poder identificar el tipo de público o la necesidad que tiene el usuario y para ello existe una herramienta muy interesante que puede ser de gran utilidad, como es Google Trends. Te invitamos a ver el video explicativo sobre la herramienta:
 
@@ -190,7 +190,7 @@
       .col-lg-4(data-aos="slide-down")
         img.img-t.img-a.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img34.jpg', alt='') 
       .col-lg-8
-        p(data-aos="slide-down") Posterior a saber qué necesidad tienen las personas, el emprendedor digital requiere diseñar piezas publicitarias para sus redes sociales, a continuación, te invitamos a ver un tutorial sobre  la herramienta figma.
+        p(data-aos="slide-down") Posterior a saber qué necesidad tienen las personas, el emprendedor digital requiere diseñar piezas publicitarias para sus redes sociales, a continuación, te invitamos a ver un tutorial sobre  la herramienta Figma.
         .row.justify-content-center.align-items-center
           .col-lg-11          
             .tarjeta.color-primario.bg-blue-1.p-4.my-4(data-aos="slide-down")
@@ -201,13 +201,13 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=p2P3ETt_hcs" target="_blank")
                     span.text-custom Ver video 
-        p(data-aos="slide-down") Ahora es momento de que pienses en cómo compartir el material por redes sociales, pero también piensa en que normalmente un emprendedor tiene muchas cosas que decir y, publicar en redes, puede ser complejo, para ello existen herramientas que permiten programar cuándo se realizará una publicación de manera anticipada. En este caso les invitamos a ver un video tutorial de Facebook Bussines para comprender con más claridad cómo se proyecta el contenido desde allí.
+        p(data-aos="slide-down") Ahora es momento de que pienses en cómo compartir el material por redes sociales, pero también piensa en que normalmente un emprendedor tiene muchas cosas que decir y, publicar en redes, puede ser complejo, para ello existen herramientas que permiten programar cuándo se realizará una publicación de manera anticipada. En este caso les invitamos a ver un videotutorial de Facebook #[em Bussiness] para comprender con más claridad cómo se proyecta el contenido desde allí.
         .row.justify-content-center.align-items-center
           .col-lg-11          
             .tarjeta.color-primario.bg-blue-1.p-4.mt-4(data-aos="slide-down")
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
-                  h5.mb-1 Negocio de Facebook
+                  h5.mb-1 Facebook #[em business]
                   p.text-small.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/RvgMD_NBJ_E" target="_blank")
@@ -221,7 +221,7 @@
             .col          
               .row.justify-content-between.align-items-center.py-3
                 .col.mb-3.mb-sm-0.text-white
-                  h5.mb-1 ¿Cómo puedes vender más en tu tienda con la ayuda de whatsapp?
+                  h5.mb-1 ¿Cómo puedes vender más en tu tienda con la ayuda de WhatsApp?
                   p.text-small.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=sgHg2ynk0pI" target="_blank")
@@ -254,7 +254,7 @@
             .col-lg-4
               img.img-t.img-a.my-3.yoyo(src='@/assets/ilustraciones/img38.jpg', alt='') 
             .col-lg-8
-              p Cuando se realiza un análisis de lo que se tiene, de lo que se necesita y de los costos que esto representa a nivel de tecnología, se realiza un proceso básico de planificación tecnológica, que para empezar a implementarlo puedes tener en cuenta los siguiente: 
+              p Cuando se realiza un análisis de lo que se tiene, de lo que se necesita y de los costos que esto representa a nivel de tecnología, se realiza un proceso básico de planificación tecnológica, que para empezar a implementarlo puedes tener en cuenta lo siguiente: 
               ol.lista-ol--cuadro
                 li 
                   .lista-ol--cuadro__vineta
@@ -294,8 +294,8 @@
 
                     tbody
                       tr
-                        td.c-gray Facebook Bussines
-                        td.c-gray Parte de facrbook cuendo se tiene un fan page. Permite administrar respuestas automáticas y programar publicaciones de facebook e instagram.
+                        td.c-gray Facebook #[em Bussiness]
+                        td.c-gray Parte de Facebook cuando se tiene una fanpage. Permite administrar respuestas automáticas y programar publicaciones de facebook e Instagram.
                         td.c-gray Responder al cliente de forma automática y publicar de forma programada.
                         td.c-gray Constante
                         td.c-gray PC
@@ -316,7 +316,7 @@
 
                         
                       tr
-                        td WhatsApp Bussines
+                        td WhatsApp #[em Bussiness]
                         td Versión de WhatsApp para negocios.
                         td Permite crear catálogos en la cuenta de WhatsApp, mensajes automáticos, etiquetar contactos.
                         td Constante
@@ -325,7 +325,7 @@
                       tr
                         td.c-gray Canva
                         td.c-gray Diseño gráfico básico.
-                        td.c-gray Crear post para redes socieles.
+                        td.c-gray Crear post para redes sociales.
                         td.c-gray Semanal
                         td.c-gray PC/Móvil
 
@@ -333,7 +333,7 @@
                       tr
                         td Crello
                         td Diseño gráfico básico.
-                        td Crear post para redes socieles.
+                        td Crear post para redes sociales.
                         td Semanal
                         td PC/Móvil
 
@@ -346,7 +346,7 @@
 
                         
                       tr
-                        td Pixibay
+                        td Pixabay
                         td Fuente de imágenes y videos gratis.
                         td Suministra imágenes y videos para material en redes.
                         td Semanal
@@ -399,7 +399,7 @@
                         .col          
                           .row.justify-content-between.align-items-center.py-3
                             .col.mb-3.mb-sm-0.text-white
-                              h5.mb-1 ¿Cómo puedes vender más en tu tienda con la ayuda de whatsapp?revolución industrial en Colombia 4.0
+                              h5.mb-1 Planeación de contenidos
                               p.text-small.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                             .col-sm-auto
                               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=p7ZwZhSjqTM" target="_blank")
@@ -433,7 +433,7 @@
                 .col-auto
                   img.img-t.img-a(src='@/assets/ilustraciones/img42.svg', alt='') 
                 .col-10
-                  p.c-blue.p-3 Toma una pausa… Ahora determina qué tan viables son esas ideas, cuales se pueden implementar, cuales se complementan y con esto organiza una idea integrada. En este momento, prioriza las ideas tomando en cuenta lo que tienes, lo que debes invertir, lo que más satisface la necesidad. En este punto, es importante que analices herramientas como Google Trends para determinar qué es lo quiere el mercado. 
+                  p.c-blue.p-3 Toma una pausa… Ahora determina qué tan viables son esas ideas, cuáles se pueden implementar, cuáles se complementan y con esto organiza una idea integrada. En este momento, prioriza las ideas tomando en cuenta lo que tienes, lo que debes invertir, lo que más satisface la necesidad. En este punto, es importante que analices herramientas como Google Trends para determinar qué es lo quiere el mercado. 
 
               .row.justify-content-center.align-items-start.mt-4
                 .col-auto

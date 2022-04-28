@@ -126,12 +126,6 @@ export default {
     },
     {
       referencia:
-        'Ministerio de educación de Colombia. (2008). Ser competente en tecnología: ¡una necesidad para el desarrollo. Mineducación.',
-      link:
-        'https://www.mineducacion.gov.co/1621/articles40033_archivo_pdf_Orientaciones_grales_educacion_tecnologia.pdf',
-    },
-    {
-      referencia:
         'Ollero Baturone, A. (2001). Robótica: Manipuladores y Robots Móviles. Google Books. ',
       link:
         'https://books.google.es/books?hl=es&lr=&id=TtMfuy6FNCcC&oi=fnd&pg=PR17&dq=robots&ots=33JTD-A89N&sig=ugA-U1MBSg-0IzmrXs87dLV0Oto#v=onepage&q=robots&f=false',
@@ -164,22 +158,22 @@ export default {
     {
       termino: 'Realidad virtual',
       significado:
-        'Tecnología que permite al usuario sumergirse en un entorno virtual para vivir una experiencia',
+        'Tecnología que permite al usuario sumergirse en un entorno virtual para vivir una experiencia.',
     },
     {
-      termino: 'Bitcoin',
+      termino: '<em>Bitcoin</em>',
       significado:
-        'Criptomoneda que surgió aproximadamente en el año 2009 y que tiene transacciones aplicando blockchain',
+        'Criptomoneda que surgió aproximadamente en el año 2009 y que tiene transacciones aplicando <em>blockchain</em>.',
     },
     {
       termino: 'Nequi',
       significado:
-        'Aplicación móvil asociada a la bancarización digital que permite realizar procesos como pagos, recibir dineros etc ',
+        'Aplicación móvil asociada a la bancarización digital que permite realizar procesos como pagos, recibir dineros, etc.',
     },
     {
       termino: 'Sensores',
       significado:
-        'Dispositivos que permiten tomar medidas físicas o químicas y transformarlas en señales eléctricas para ser analizadas por un procesador',
+        'Dispositivos que permiten tomar medidas físicas o químicas y transformarlas en señales eléctricas para ser analizadas por un procesador.',
     },
   ],
   creditos: {

@@ -90,7 +90,7 @@
                     .col-4.p-0.m-0
                       img.img-t(data-aos="zoom-in")(src='@/assets/ilustraciones/3.svg', alt='')
                     .col-8.m-0.p-0
-                      h4.mb-0.text-white Blockchain
+                      h4.mb-0.text-white #[em Blockchain]
 
         .row.justify-content-center.align-items-center         
           .col-lg-4.mt-4(data-aos="slide-down")        
@@ -121,7 +121,7 @@
                     .col-4.p-0.m-0
                       img.img-t(data-aos="zoom-in")(src='@/assets/ilustraciones/6.svg', alt='')
                     .col-8.m-0.p-0
-                      h4.mb-0.text-white Big data
+                      h4.mb-0.text-white #[em Big data]
       .col-lg-4
         img.img-t.img-a.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img14.png', alt='')
 
@@ -141,14 +141,14 @@
           h4.modal-title.text-white.px-3.py-2 Sistemas autónomos e inteligencia artificial    
       .row.justify-content-center.align-items-center.mt-5     
         .col-md-7
-          p.mb-0 Están presentes los sistemas autónomos y la inteligencia artificial, que de la mano de la robótica y otras tecnologías permiten no solo que los procesos sean automáticos, sino que ahora aprendan de la experiencia como los seres humanos. Si manejas alguna red social, sabes de que te hablamos, por ejemplo si realizaste una búsqueda sobre relojes, empezará a aparecer publicidad, marcas e información relacionada con relojes, lo que en algunos momentos nos hace pensar que nos leen la mente o que quizá nos vigilan, pero la respuesta va relacionada a que los  empiezan a aprender de la experiencia de nosotros como usuarios.          
+          p.mb-0 Están presentes los sistemas autónomos y la inteligencia artificial, que de la mano de la robótica y otras tecnologías permiten no solo que los procesos sean automáticos, sino que ahora aprendan de la experiencia como los seres humanos. Si manejas alguna red social, sabes de qué te hablamos, por ejemplo si realizaste una búsqueda sobre relojes, empezará a aparecer publicidad, marcas e información relacionada con relojes, lo que en algunos momentos nos hace pensar que nos leen la mente o que quizá nos vigilan, pero la respuesta va relacionada a que los  empiezan a aprender de la experiencia de nosotros como usuarios.          
         .col-lg-5
           img.img-t.img-a.zig(data-aos="zoom-in")(src='@/assets/ilustraciones/img16.png', alt='')    
 
     ModalA(:abrir-modal.sync="modal3")
       .row.justify-content-start.align-items-center
         .col-lg-3
-          h4.modal-title.text-white.px-3.py-2 Blockchain    
+          h4.modal-title.text-white.px-3.py-2 #[em Blockchain]    
       .row.justify-content-center.align-items-center.mt-5
         .col-lg-5
           img.img-t.img-a.zig(data-aos="zoom-in")(src='@/assets/ilustraciones/img17.png', alt='')      
@@ -181,15 +181,15 @@
         .col-lg-5
           img.img-t.img-a.zig(data-aos="zoom-in")(src='@/assets/ilustraciones/img19.png', alt='')      
         .col-md-7
-          p.mb-0 La impresión 3D es una tecnología asociada a la cuarta revolución industrial debido a que permite a las personas crear modelos 3D para prototipar ideas, por ejemplo, en metodologías como el Design Thinking puede resultar útil, al igual que en los espacios de co-creación como los makerspaces, donde las personas interactúan para hacer ideación y prototipar ideas que pueden desencadenar en grandes proyectos.
+          p.mb-0 La impresión 3D es una tecnología asociada a la cuarta revolución industrial debido a que permite a las personas crear modelos 3D para prototipar ideas, por ejemplo, en metodologías como el #[em Design Thinking] puede resultar útil, al igual que en los espacios de co-creación como los #[em makerspaces], donde las personas interactúan para hacer ideación y prototipar ideas que pueden desencadenar en grandes proyectos.
 
     ModalA(:abrir-modal.sync="modal6")
       .row.justify-content-start.align-items-center
         .col-lg-2
-          h4.modal-title.text-white.px-3.py-2 Big data    
+          h4.modal-title.text-white.px-3.py-2 #[em Big data]    
       .row.justify-content-center.align-items-center.mt-5     
         .col-md-7
-          p.mb-0 El Big data permite procesar muchos datos para poder tomar decisiones. Una de las tecnologías claves, pues permite conectar diferentes elementos para automatizar procesos, por ejemplo, la nevera puede llegar a indicar al teléfono del usuario que se está agotando un producto y tomar la determinación de hacer un pedido del producto desde el teléfono. En ese orden de ideas el internet de las cosas se aplica en procesos industriales para que las máquinas y robots de una industria se comuniquen y puedan realizar procesos automáticos y efectivos. 
+          p.mb-0 El #[em Big data] permite procesar muchos datos para poder tomar decisiones. Una de las tecnologías claves, pues permite conectar diferentes elementos para automatizar procesos, por ejemplo, la nevera puede llegar a indicar al teléfono del usuario que se está agotando un producto y tomar la determinación de hacer un pedido del producto desde el teléfono. En ese orden de ideas el internet de las cosas se aplica en procesos industriales para que las máquinas y robots de una industria se comuniquen y puedan realizar procesos automáticos y efectivos. 
         .col-lg-5
           img.img-t.img-a.zig(data-aos="zoom-in")(src='@/assets/ilustraciones/img20.png', alt='')                       
 
